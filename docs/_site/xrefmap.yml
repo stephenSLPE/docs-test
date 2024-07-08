@@ -1,3 +1,31 @@
 ### YamlMime:XRefMap
 sorted: true
-references: []
+references:
+- uid: docs_test
+  name: docs_test
+  href: api/docs_test.yml
+  commentId: N:docs_test
+  fullName: docs_test
+  nameWithType: docs_test
+- uid: docs_test.TestClass
+  name: TestClass
+  href: api/docs_test.TestClass.yml
+  commentId: T:docs_test.TestClass
+  fullName: docs_test.TestClass
+  nameWithType: TestClass
+- uid: docs_test.TestClass.Test(System.Int32)
+  name: Test(int)
+  href: api/docs_test.TestClass.yml
+  commentId: M:docs_test.TestClass.Test(System.Int32)
+  name.vb: Test(Integer)
+  fullName: docs_test.TestClass.Test(int)
+  fullName.vb: docs_test.TestClass.Test(Integer)
+  nameWithType: TestClass.Test(int)
+  nameWithType.vb: TestClass.Test(Integer)
+- uid: docs_test.TestClass.Test*
+  name: Test
+  href: api/docs_test.TestClass.yml
+  commentId: Overload:docs_test.TestClass.Test
+  isSpec: "True"
+  fullName: docs_test.TestClass.Test
+  nameWithType: TestClass.Test
