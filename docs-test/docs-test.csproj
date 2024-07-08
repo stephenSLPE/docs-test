@@ -9,6 +9,6 @@
     </PropertyGroup>
 
     <PropertyGroup>
-        <DocumentationFile>docs-test\docs-test.xml</DocumentationFile>
+        <DocumentationFile>docs-test.xml</DocumentationFile>
     </PropertyGroup>
 </Project>
