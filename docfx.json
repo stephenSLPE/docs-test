@@ -5,11 +5,11 @@
         {
           "src": "../docs-test",
           "files": [
-            "docs-test/*.csproj"
+            "**/*.csproj"
           ]
         }
       ],
-      "dest": "../docs"
+      "dest": "api"
     }
   ],
   "build": {

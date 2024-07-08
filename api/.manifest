@@ -1,0 +1,5 @@
+{
+  "docs_test": "docs_test.yml",
+  "docs_test.TestClass": "docs_test.TestClass.yml",
+  "docs_test.TestClass.Test(System.Int32)": "docs_test.TestClass.yml"
+}
