@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>docs-test</name>
+    </assembly>
+    <members>
+        <member name="M:docs_test.Program.Main(System.String[])">
+            <summary>
+            This is the main method of the program.
+            It prints "Hello, World!" to the console. 
+            </summary>
+            <param name="args">These are the arguments to the main method.</param>
+        </member>
+        <member name="M:docs_test.TestClass.Test(System.Int32)">
+            <summary>
+            A test method to do nothing 
+            </summary>
+            <param name="test">A test input parameter that does nothing</param>
+        </member>
+    </members>
+</doc>
