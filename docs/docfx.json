@@ -5,7 +5,7 @@
         {
           "src": "../docs-test",
           "files": [
-            "docs-test/*.csproj"
+            "docs-test/**.csproj"
           ]
         }
       ],
